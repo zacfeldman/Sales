@@ -11,3 +11,5 @@
 Eg: lease\_deposit,lease\_security\_premises,lease\_fee,lease\_rental\_parking\_fee,lease\_rental\_premises,lease\_electricity\_premises,lease\_water\_premises,lease\_sewarage\_premises,lease\_refuse\_premises
 {% endhint %}
 
+* check smtp settings for outgoing email in properties-  property management&#x20;
+* add permisions for tenants&#x20;
