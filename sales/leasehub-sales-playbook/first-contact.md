@@ -79,3 +79,9 @@ How do your current application forms work?
 1. Is this a digital application or manual paper application form
 2. Do you manage leads from a CRM?
 
+## Lease process
+
+Do you use the TPN lease or do you have your own lease?
+
+Do your clauses change per contract or just the fees and information around the property?
+
