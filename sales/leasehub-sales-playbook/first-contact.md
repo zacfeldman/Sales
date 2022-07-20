@@ -62,28 +62,20 @@ Most clients use TPN as the credit bureau. we have integrated with them and we d
 * Silver
 * Basic
 
+{% hint style="info" %}
+Gold Credex does a full affordability assessment. It is therefore vital that income and rent are correct as these will be used to assess affordability.
+{% endhint %}
+
 ### Experian and Transunion
 
 We currently do not integrate&#x20;
 
 
 
+## Application process
 
+How do your current application forms work?
 
-Do you currently have paper applications or
-
-1. digital?
+1. Is this a digital application or manual paper application form
 2. Do you manage leads from a CRM?
 
-Who is responsible for checking the uploaded
-
-1. documents
-   1. Agent
-   2. Head office
-2. Who is responsible for checking the POP
-   1. Agent
-   2. Head office
-
-Do you want to receive deposit via cc or direct
-
-1. eft?
