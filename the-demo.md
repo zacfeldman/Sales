@@ -22,7 +22,7 @@ The focus area is is used by management to identify key buildings that they want
 
 Landlords may not find this particularly useful and therefore the audience should be considered when spending time on this feature.&#x20;
 
-![Landing Page](<../../.gitbook/assets/image (1).png>)
+![Landing Page](<.gitbook/assets/image (1) (1).png>)
 
 ### Favorites
 
@@ -42,11 +42,21 @@ The dashboards are configurable and can change as per the clients requirements. 
 The dashboards are permission based and therefore  agents will only see the data that they can see whereas management will see the entire portfolio&#x20;
 {% endhint %}
 
-### &#x20;
+### My Tenant leases
+
+This section is used to add all the leases for an agent that they can then use to track their current leases
 
 
 
+## Start new application&#x20;
 
+Applications can be started in 2 ways.
+
+### Manual application
+
+The most common way for an application to be started is by an agent. The agent will meet with the prospective tenant and start a new application once the applicant is ready to apply.
+
+![](<.gitbook/assets/image (1).png>)
 
 
 
