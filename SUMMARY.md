@@ -8,9 +8,9 @@
 
 ## Sales
 
-* [First Contact](sales/first-contact.md)
-* [The Demo](sales/the-demo.md)
-* [LeaseHub Sales Playbook](sales/leasehub-sales-playbook.md)
+* [LeaseHub Sales Playbook](sales/leasehub-sales-playbook/README.md)
+* [First Contact](sales/leasehub-sales-playbook/first-contact.md)
+* [The Demo](sales/leasehub-sales-playbook/the-demo.md)
 
 ## Client Config
 
