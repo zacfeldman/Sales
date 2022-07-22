@@ -22,7 +22,7 @@ The focus area is is used by management to identify key buildings that they want
 
 Landlords may not find this particularly useful and therefore the audience should be considered when spending time on this feature.&#x20;
 
-![Landing Page](<.gitbook/assets/image (1) (1).png>)
+![Landing Page](<.gitbook/assets/image (1) (1) (1).png>)
 
 ### Favorites
 
@@ -56,19 +56,44 @@ Applications can be started in 2 ways.
 
 The most common way for an application to be started is by an agent. The agent will meet with the prospective tenant and start a new application once the applicant is ready to apply.
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
+### Applications from CRM
 
+LeaseHub has a dedicated endpoint for starting applications that can intgrate into any CRM.
 
-Who is responsible for checking the uploaded
+By using either [_Zapier_](https://zapier.com/app/dashboard) __ or other software agents can easily start new applications.&#x20;
 
-1. documents
-   1. Agent
-   2. Head office
-2. Who is responsible for checking the POP
-   1. Agent
-   2. Head office
+{% swagger method="post" path="" baseUrl="https://property-dev.papertrail.co.za/management/api/generateApplication" summary="Create a new applicatoin" %}
+{% swagger-description %}
+This is used to start a new application
+{% endswagger-description %}
 
-Do you want to receive deposit via cc or direct
+{% swagger-parameter in="header" name="${APIKEY}" required="true" %}
 
-1. eft?
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+```javascript
+{
+    "status": "Success",
+    "docId": 5379,
+    "applicant_id": "000063",
+    "application_id": "App000331"
+}
+```
+{% endswagger-response %}
+{% endswagger %}
+
+## Application View
+
+![Rent and Fees](<.gitbook/assets/image (2).png>)
+
+The Rent and Fees section will auto calculate the first payment as well as the total monthly payment.
+
+A discount field is also available for first month rental discounts
+
+If these values are static per building we can build these to be automatically completed.
+
+These fields can change slightly based on the needs of the client.&#x20;
+
