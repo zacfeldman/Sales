@@ -64,7 +64,7 @@ LeaseHub has a dedicated endpoint for starting applications that can intgrate in
 
 By using either [_Zapier_](https://zapier.com/app/dashboard) __ or other software agents can easily start new applications.&#x20;
 
-{% swagger method="post" path="" baseUrl="https://property-dev.papertrail.co.za/management/api/generateApplication" summary="Create a new applicatoin" %}
+{% swagger method="post" path="" baseUrl="https://property-dev.papertrail.co.za/management/api/generateApplication" summary="Create a new application" %}
 {% swagger-description %}
 This is used to start a new application
 {% endswagger-description %}
@@ -97,3 +97,10 @@ If these values are static per building we can build these to be automatically c
 
 These fields can change slightly based on the needs of the client.&#x20;
 
+### Volume based
+
+Each companies workflow will differ slightly dependent on volumes. The more applications and leases they sign a month the more they will want their agents to do the majority of the work and limit the bottle neck at the credit vetting team
+
+However, agents are more likely to make mistakes and therefore can only be used when the volume is large enough to justify a few errors.&#x20;
+
+Unless the company is doing about 100 leases&#x20;
