@@ -131,6 +131,19 @@ For Gold it will do an affordability check. It is important that the rental tota
 
 Managing the receival of deposits is one of the most vital aspects of Leasehub. Most residential managing agents will not even generate a lease without a deposit being paid.&#x20;
 
+Once the deposit is paid, the agent can then generate a lease.&#x20;
 
+To capture a successful payment Leasehub has the following options. We send an email to the tenant with a link to upload the Proof of payment. This link **IS** mobile friendly and can be used to take a picture of atm deposit slip or upload the bank eft Proof of Payment.&#x20;
+
+Alternately, the agent or the credit vetting team can upload the Proof of Payment on the tenants behalf.&#x20;
+
+{% hint style="info" %}
+Most managing agents do not want to do credit card or direct EFT as this will cut into their margins. However, if a landlord is managing their own portfolio they may require payment gateway integration to collect payments quicker.
+{% endhint %}
+
+Future development is being considered to integrate with payment gateways such as _Walletdoc_ that can accommodate both Direct EFT as well as Credit card payments.
+
+If required; the full deposit amount must be captured prior to the lease being generated.&#x20;
 
 ## Proforma Invoice
+
