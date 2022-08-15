@@ -52,6 +52,10 @@ This section is used to add all the leases for an agent that they can then use t
 
 Applications can be started in 2 ways.
 
+{% hint style="info" %}
+If a prospective client already has an application process you can skip this part and move directly to the lease generation. there is no need to show this they already have a  process.
+{% endhint %}
+
 ### Manual application
 
 The most common way for an application to be started is by an agent. The agent will meet with the prospective tenant and start a new application once the applicant is ready to apply.
@@ -103,4 +107,30 @@ Each companies workflow will differ slightly dependent on volumes. The more appl
 
 However, agents are more likely to make mistakes and therefore can only be used when the volume is large enough to justify a few errors.&#x20;
 
-Unless the company is doing about 100 leases&#x20;
+Unless the company is doing about 100 leases they won't want to take the risk of not having the back office or credit vetting checking all the documents.&#x20;
+
+{% hint style="info" %}
+Configure LeaseHub to mimic the process of the client you are showing the system to. Make sure that there is a back office user and credit vetting for small clients and show the responsibility of agents for large client.
+{% endhint %}
+
+## TPN
+
+Send for credit check button will do an API call to TPN.
+
+This call uses the TPN Credex module and will ask the user to select one of three options&#x20;
+
+1. Credex basic&#x20;
+2. Credex silver&#x20;
+3. Credex Gold
+
+All 3 options will return a report with the tenants TPN credit check.&#x20;
+
+For Gold it will do an affordability check. It is important that the rental total is correct here as this will be sent to TPN for an assessment. For a client that uses gold it is important to show the assessment as well as the affordability rate.
+
+## The deposit
+
+Managing the receival of deposits is one of the most vital aspects of Leasehub. Most residential managing agents will not even generate a lease without a deposit being paid.&#x20;
+
+
+
+## Proforma Invoice
