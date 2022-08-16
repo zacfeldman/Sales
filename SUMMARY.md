@@ -4,3 +4,4 @@
 * [First Contact](first-contact.md)
 * [The Demo](the-demo.md)
 * [The Quote](the-quote.md)
+* [Setup](setup.md)
