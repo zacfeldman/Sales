@@ -147,26 +147,3 @@ If required; the full deposit amount must be captured prior to the lease being g
 
 ## Proforma Invoice
 
-The proforma invoice is used to send an invoice to a client that has not been loaded on the financial system, in most cases MDA. This is used to deal with the fact that most systems require the tenant to be onboarded and set up prior to being invoiced. If the tenant does not pay the deposit they would then need to be a credit note for this transaction.&#x20;
-
-Rather we create an invoice. Once the tenant has paid we then generate the lease. The landlord or agent is then responsible to generate an invoice on their system to reflect this transaction.&#x20;
-
-
-
-## Generate the lease
-
-Generating of the lease can be done by either the agent or the credit vetting team.&#x20;
-
-The lease will be populated with the landlord details, the agents details and the tenants details.&#x20;
-
-The agent and landlord details are part of the configuration setup and the tenant details are pulled off the application.
-
-By default LeaseHub uses the _TPN_ lease and if a client wants a different lease this can be done with a small amount of configuration work.
-
-{% hint style="warning" %}
-The TPN lease is constantly updated and incorporates changes to the law. It is therefore a recommended lease in terms of SA property law
-{% endhint %}
-
-## Key Release and Inspection form&#x20;
-
-The key release and inspection form are required to end the tenant onboarding system. These forms are being digitized and will therefore be esign ready towards the end of the year.  &#x20;
