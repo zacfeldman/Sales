@@ -30,9 +30,11 @@ Since the cost of LeaseHub is per application and per lease, it is vital to show
 
 ## What is your LSM?
 
-LSM - Living Standards Measure
-
 This will determine what the cost of each lease and indicate if the Property manager is dealing with high volumes and low value leases or visa versa.
+
+{% hint style="info" %}
+LSM - Living Standards Measure
+{% endhint %}
 
 ## Do you use MDA?
 
