@@ -29,14 +29,13 @@
 
 ## Lookups
 
-Getting all the lookups is vital to&#x20;
+Getting all the lookups is vital to a successful implementation. This data can be exported from MDA or other software. If there is no integration with these software it is imperative that this is kept up to date to ensure the that lease has the correct data is written onto the lease.&#x20;
 
 
 
-
-
-| Lookup                                | Description                                 | Link                                                                                                                       |
-| ------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><p>Agent lookups </p>          | Lookup for agent details                    | [https://1drv.ms/x/s!Auz-BXHu5ydvgelxvwpjSOAxC6gkqQ?e=FFWP16](https://1drv.ms/x/s!Auz-BXHu5ydvgelxvwpjSOAxC6gkqQ?e=FFWP16) |
-| <p></p><p>Landlord Lookups</p><p></p> | landlord details. required 1 per building.  | [https://1drv.ms/x/s!Auz-BXHu5ydvgelzmuomVOAZkWClgA?e=0mKy5B](https://1drv.ms/x/s!Auz-BXHu5ydvgelzmuomVOAZkWClgA?e=0mKy5B) |
-| Building lookups                      | Building lookups for each building          | [https://1drv.ms/x/s!Auz-BXHu5ydvgel15xK3zJgc0ZnG0g?e=8rk1Xd](https://1drv.ms/x/s!Auz-BXHu5ydvgel15xK3zJgc0ZnG0g?e=8rk1Xd) |
+| Lookup                                | Description                                                                                                                                                                     | Link                                                                                                                       |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| <p></p><p>Agent lookups </p>          | Lookup for agent details                                                                                                                                                        | [https://1drv.ms/x/s!Auz-BXHu5ydvgelxvwpjSOAxC6gkqQ?e=FFWP16](https://1drv.ms/x/s!Auz-BXHu5ydvgelxvwpjSOAxC6gkqQ?e=FFWP16) |
+| <p></p><p>Landlord Lookups</p><p></p> | landlord details. required 1 per building.                                                                                                                                      | [https://1drv.ms/x/s!Auz-BXHu5ydvgelzmuomVOAZkWClgA?e=0mKy5B](https://1drv.ms/x/s!Auz-BXHu5ydvgelzmuomVOAZkWClgA?e=0mKy5B) |
+| Building lookups                      | Building lookups for each building. In many companies each building will have its own bank account. therefore this needs to be locked down in terms of editing to avoid fraud.  | [https://1drv.ms/x/s!Auz-BXHu5ydvgel15xK3zJgc0ZnG0g?e=8rk1Xd](https://1drv.ms/x/s!Auz-BXHu5ydvgel15xK3zJgc0ZnG0g?e=8rk1Xd) |
+|                                       |                                                                                                                                                                                 |                                                                                                                            |
